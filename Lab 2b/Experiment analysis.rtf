@@ -1,0 +1,23 @@
+{\rtf1\ansi\deff0\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fnil\fprq2\fcharset0 Microsoft YaHei;}{\f4\fnil\fprq2\fcharset0 Mangal;}{\f5\fnil\fprq0\fcharset128 Mangal;}}
+{\colortbl;\red0\green0\blue0;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1033 Default;}
+{\s15\sbasedon0\snext16\sb240\sa120\keepn\hich\af3\dbch\af4\afs28\loch\f2\fs28 Heading;}
+{\s16\sbasedon0\snext16\sb0\sa120 Text body;}
+{\s17\sbasedon16\snext17\sb0\sa120\dbch\af5 List;}
+{\s18\sbasedon0\snext18\sb120\sa120\noline\i\dbch\af5\afs24\ai\fs24 Caption;}
+{\s19\sbasedon0\snext19\noline\dbch\af5 Index;}
+}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr0\mo0\dy0\hr0\min0}{\printim\yr0\mo0\dy0\hr0\min0}{\comment OpenOffice}{\vern4010}}\deftab709
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn12240\pghsxn15840\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt0 Default;}}
+\formshade\paperh15840\paperw12240\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1033{\rtlch \ltrch\loch
+This experiment was designed to run the program that generates a given number of random integers with a given seed for the Random() number generator. The number of items to be generated was chosen to be an exponential function (2^n). The length of the seeds was chosen to vary from 1 to close to the maximal length of an int primitive type in Java. Because I did not know whether the actual value of the seed could influence the length for completion, I randomly chose different values for the various seeds. I ran the experiment through a Bash shell in Ubunutu so that I could store the program's output in .txt files. I included a for loop in the main method to loop through the manageable powers of 2 and pass them as parameters for the timeAddFromFront() method. Through trial and error, I found out that powers of two beyond 23 are not manageable given the time constraints for the completion of the lab (the one that ran with 2^23 number of generated integers took a night to complete). For easiness, I temporarily modified the program to accept the seed as a command line argument. Please, note that I am submitting the program with a normal main that does not accept command line arguments and that has no for-loop. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1033{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1033{\rtlch \ltrch\loch
+The results showed that the time it took to generate random numbers do not vary greatly based on the seed. We can see from all of the plots that the lines for the number of generated items are very close together and are not far away from the line for the average of the different seeds. This is especially obvious in the bar graph (the last one). The time for completion in milliseconds, however, \'93explodes\'94 as the powers of 2 grow. For example, it took much more than twice the amount of time to generate 2^21 number of integers than it did to generate 2^20 number of integers in all instances. Looking at the plot, I can guess that the time for completion is some sort of an exponential function, but I have not tried to fit the values to see exactly what it is.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\hich\af6\langfe2052\dbch\af4\afs24\lang1081\loch\f0\fs24\lang1033{\rtlch \ltrch\loch
+}
+\par }

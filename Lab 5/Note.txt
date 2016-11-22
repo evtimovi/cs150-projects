@@ -1,0 +1,12 @@
+My main class is the MovieIo class. It has methods to read and write the data appropriately.
+My container classes are TitleComparatorTreeSet and DirectorComparatorTreeSet.
+My comparator classes are the DirectorComparator and the TitleComparator.
+Where appropriate, they also have test classes. However, the container classes are not unit-tested
+since they have only get methods. The same goes for the Movie class.
+The file inputDatabase.txt is my input file and the results of two runs of my program have been saved in file1.txt (TitleComparator),
+file2.txt (DirectorComparator), file3.txt(TitleComparator) and file4.txt(DirectorComparator).
+emptyFile.txt, wrongPattern.txt, output1.txt, output2.txt, outputOfTest.txt, outputOfTest2_correct.txt, and outputOfTest3.txt
+are all files used for the unit-testing of MovieIO.
+Please, note that I have found that the Windows text editor ignores the characters for new lines so that the .txt file
+appears as a single line if opened on a PC. However, the text editor on the lab computers displays the text properly and the
+program, which uses nextLine() and hasNextLine() methods of the Scanner class, runs properly under Windows as well.

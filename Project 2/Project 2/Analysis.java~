@@ -1,0 +1,9 @@
+/**
+ * This method is designed to evaluate the performance
+ * of the search and update methods with different queries.
+ * 
+ * @author Ivan Evtimov
+ */
+public class Analysis{
+
+}

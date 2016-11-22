@@ -1,0 +1,10 @@
+/**
+ * This comparator reverses the natural ordering of the restaurants
+ * and first compares the restaurant's cities. If those are the same,
+ * the comparator then compares their names. 
+ * If both the city and the name is the same, the restaurant is considered to be the same one.
+ */
+public class RestaurantCityComparator implements Comparator<Restaurant>{
+  
+  
+}

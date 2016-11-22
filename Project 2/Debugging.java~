@@ -1,0 +1,15 @@
+public class Debugging{
+
+  public static void main(String[] args){
+  
+    Time t = new Time("16:30");
+    System.out.println(t);
+    
+    Time t2 = new Time("01:30");
+    System.out.println (t2);
+    
+    Time t3 = new Time("17:30");
+    System.out.println (t3);
+    System.out.println(t3.isBetween(t, t2));
+  }
+}

@@ -1,0 +1,89 @@
+Store 4 was supplied with bananas 10
+Store 4 was supplied with beef 5
+Store 4 was supplied with vegetables 1
+Store 4 was supplied with soda 9
+Store 4 was supplied with towels 2
+Store 43 was supplied with bananas 4
+Store 43 was supplied with beef 6
+Store 43 was supplied with vegetables 4
+Store 43 was supplied with soda 8
+Store 43 was supplied with towels 2
+Store 6 was supplied with bananas 7
+Store 6 was supplied with beef 8
+Store 6 was supplied with vegetables 8
+Store 6 was supplied with soda 8
+Store 7 was supplied with bananas 3
+Store 7 was supplied with beef 9
+Store 7 was supplied with vegetables 6
+Store 7 was supplied with soda 9
+Store 7 was supplied with towels 7
+Store 5 was supplied with bananas 6
+Store 5 was supplied with beef 1
+Store 5 was supplied with vegetables 4
+Store 5 was supplied with soda 7
+Store 5 was supplied with towels 4
+Store 12 was supplied with bananas 3
+Store 12 was supplied with beef 10
+Store 12 was supplied with vegetables 10
+Store 13 was supplied with bananas 2
+Store 13 was supplied with beef 6
+Store 13 was supplied with vegetables 6
+Store 13 was supplied with soda 5
+Store 13 was supplied with towels 6
+Store 6 was supplied with towels 6
+Store 21 was supplied with bananas 6
+Store 21 was supplied with beef 5
+Store 21 was supplied with vegetables 2
+Store 21 was supplied with soda 5
+Store 21 was supplied with towels 5
+Store 53 was supplied with bananas 4
+Store 53 was supplied with beef 9
+Store 53 was supplied with vegetables 7
+Store 53 was supplied with soda 2
+Store 53 was supplied with towels 7
+Store 19 was supplied with bananas 8
+Store 19 was supplied with beef 6
+Store 19 was supplied with vegetables 2
+Store 19 was supplied with soda 7
+Store 19 was supplied with towels 8
+Store 12 was supplied with soda 6
+Store 12 was supplied with towels 3
+Store 93 was supplied with bananas 2
+Store 93 was supplied with beef 6
+Store 93 was supplied with vegetables 4
+Store 93 was supplied with soda 6
+Store 93 was supplied with towels 9
+Store 20 was supplied with bananas 6
+Store 20 was supplied with beef 7
+Store 20 was supplied with vegetables 3
+Store 20 was supplied with soda 2
+Store 20 was supplied with towels 5
+Store 85 was supplied with bananas 9
+Store 85 was supplied with beef 9
+Store 85 was supplied with vegetables 2
+Store 85 was supplied with soda 4
+Store 85 was supplied with towels 9
+Writing result: true
+36 1 [4] beef 5 bananas 10 vegetables 1 soda 9 towels 2 
+36 2 [43] beef 6 bananas 4 vegetables 4 soda 8 towels 2 
+36 3 [6] beef 8 bananas 7 vegetables 8 soda 8 
+94 4 [7] beef 9 bananas 3 vegetables 6 soda 9 
+94 5 [7, 5] beef 1 bananas 6 vegetables 4 soda 7 towels 7 
+94 6 [5, 4, 12] beef 10 bananas 3 vegetables 10 towels 4 
+1 7 [7, 5, 4, 13] beef 6 bananas 2 vegetables 6 soda 5 towels 6 
+1 8 [6, 21] beef 5 bananas 6 vegetables 2 soda 5 towels 6 
+1 9 [21] towels 5 
+28 10 [53] beef 9 bananas 4 vegetables 7 soda 2 
+28 11 [53, 6, 5] towels 7 
+29 12 [7, 5, 4, 19] beef 6 bananas 8 vegetables 2 soda 7 
+29 13 [19, 6, 21] towels 8 
+87 14 [4, 6, 5, 12] soda 6 towels 3 
+58 15 [53, 7, 5, 6, 12, 93] beef 6 bananas 2 vegetables 4 soda 6 
+58 16 [93] towels 9 
+41 17 [13, 6, 5, 4, 20, 21, 19] beef 7 bananas 6 vegetables 3 soda 2 towels 5 
+41 18 [85] beef 9 bananas 9 vegetables 2 soda 4 
+41 19 [85] towels 9 
+
+Stores with unmet needs: []
+Unprocessed stores: 
+[344, 342, 299, 290, 291, 448, 441, 100, 439, 435, 339, 334, 337, 332, 92, 238, 239, 232, 141, 148, 131, 130, 498, 496, 497, 405, 404, 401, 378, 375, 392, 399, 459, 457, 177, 186, 325, 204, 122, 127, 410, 413, 312, 316, 139, 368, 381, 387, 64, 67, 252, 469, 465, 460, 462, 355, 358, 212, 210, 211, 281, 280, 285, 284, 263, 267, 54, 56, 51, 119, 301, 307, 229, 228, 227, 222, 157, 159, 80, 489, 488, 486, 485, 482, 480, 472, 478]

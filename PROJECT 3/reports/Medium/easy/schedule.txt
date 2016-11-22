@@ -1,0 +1,52 @@
+29 1 [7, 1] beef 13 bananas 2 vegetables 5 soda 8 towels 5 
+29 2 [1] vegetables 7 towels 6 
+29 3 [62] beef 2 bananas 9 vegetables 4 soda 7 
+8 4 [9, 7, 1] beef 8 bananas 4 vegetables 4 soda 7 towels 5 
+8 5 [26] beef 8 bananas 6 vegetables 7 soda 5 
+8 6 [26, 27] beef 7 bananas 2 vegetables 6 soda 6 towels 6 
+58 7 [65, 1, 9, 7] beef 7 bananas 7 vegetables 1 soda 5 towels 4 
+58 8 [6] beef 7 bananas 6 vegetables 9 soda 1 towels 2 
+58 9 [16] beef 6 bananas 7 vegetables 2 soda 10 towels 4 
+57 10 [6, 1, 7, 26, 9, 2] beef 9 bananas 7 vegetables 4 soda 9 
+57 11 [2, 21] beef 4 bananas 5 soda 6 towels 9 
+57 12 [21] vegetables 8 towels 6 
+50 13 [26, 1, 9, 6, 60, 2] beef 9 bananas 4 vegetables 1 soda 2 towels 6 
+50 14 [76] beef 2 bananas 10 vegetables 7 soda 7 
+50 15 [76, 84] beef 2 bananas 5 vegetables 8 towels 5 
+53 16 [65, 9, 20] beef 7 bananas 1 vegetables 5 soda 1 towels 8 
+53 17 [15, 26, 1] beef 1 bananas 2 vegetables 6 soda 1 towels 6 
+53 18 [14] beef 8 bananas 1 vegetables 8 soda 10 
+52 19 [1, 20, 2, 9, 6, 99] beef 10 bananas 6 vegetables 6 soda 2 
+52 20 [99, 84] soda 9 towels 9 
+52 21 [84, 76, 97] beef 1 bananas 8 soda 7 towels 7 
+3 22 [1, 7, 14, 2, 6, 83] bananas 10 soda 1 towels 9 
+3 23 [83, 84] beef 5 vegetables 6 towels 7 
+3 24 [97] vegetables 7 towels 8 
+39 25 [1, 7, 9, 2, 6, 21, 83, 76, 84, 73] beef 10 bananas 6 vegetables 7 soda 7 
+39 26 [73] towels 4 
+33 27 [46, 20, 26] beef 2 bananas 5 vegetables 3 soda 7 towels 6 
+33 28 [27, 1, 9, 6, 60, 2, 76, 84, 97, 73] towels 9 
+30 29 [9, 15, 7, 2, 1, 6, 21, 76, 94, 97, 73] beef 6 bananas 1 vegetables 1 soda 4 towels 2 
+35 30 [27, 86] beef 1 bananas 10 vegetables 4 soda 9 towels 2 
+35 31 [23, 7] beef 10 bananas 1 vegetables 4 soda 9 towels 3 
+35 32 [17] beef 1 bananas 8 vegetables 10 soda 3 
+34 33 [65, 51] beef 1 bananas 4 vegetables 10 soda 9 
+34 34 [51, 9, 20, 15, 1, 7, 2, 16, 83, 76, 97, 73] towels 7 
+61 35 [6, 16, 59] beef 6 bananas 7 vegetables 1 soda 5 towels 4 
+61 36 [17, 14, 1, 9, 20, 2, 21, 94, 84, 76, 73] towels 4 
+91 37 [1, 7, 9, 2, 6, 21, 83, 76, 84, 73] 
+92 38 [26, 27, 36, 16, 1, 6, 2, 76, 94, 97, 73] beef 1 bananas 4 vegetables 5 soda 3 towels 7 
+12 39 [6, 1, 16, 7, 2, 9, 20, 36, 21, 84, 73] 
+18 40 [14, 7, 1, 6, 2, 26, 9, 15, 21, 99, 76, 84, 97, 73] 
+48 41 [9, 15, 17, 7, 2, 1, 21, 76, 94, 83, 97, 73] 
+49 42 [60, 26, 27, 86, 1, 15, 7, 2, 76, 97, 73] 
+45 43 [20, 16, 6, 1, 2, 93, 76, 84, 97, 73] beef 2 bananas 4 vegetables 1 soda 5 towels 6 
+43 44 [26, 1, 9, 6, 60, 2, 76, 84, 97, 73] 
+41 45 [6, 16, 17, 14, 1, 9, 27, 20, 2, 21, 60, 76, 97, 73] 
+5 46 [14, 1, 7, 16, 2, 9, 15, 21, 36, 99, 83, 84, 97] 
+75 47 [1, 7, 2, 9, 20, 6, 21, 51, 84, 97, 73] 
+74 48 [7, 1, 2, 26, 9, 6, 15, 21, 84, 97] 
+72 49 [20, 26, 1, 9, 6, 2, 76, 97, 84, 73] 
+71 50 [9, 15, 27, 1, 6, 2, 46, 76, 84, 97, 73] 
+70 51 [93, 1, 7, 14, 2, 6, 21, 83, 84, 97, 73] 
+78 52 [65, 1, 9, 7, 6, 16, 2, 93, 76, 97, 73] 

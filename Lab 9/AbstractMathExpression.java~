@@ -1,0 +1,52 @@
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * This class partially implements the MathExpression Interface.
+ */
+public abstract class AbstractMathExpression implements MathExpressionIfc{
+ 
+  
+  private String currentExpr = null;
+  private String remainingExpr = "";
+  
+  public void splitInput(String inputString){
+    Pattern pat = Pattern.compile("(\\d[\\Q+\\E|\\Q-\\E|\\Q*\\E|\\Q/\\E]?)");
+    
+    Matcher result = pat.matcher(inputString);
+   
+    
+    result.find();
+      
+    currentExpr = result.group();
+      
+    while (result.find()){
+    
+      remainingExpr = remainingExpr + result.group();
+    }
+    
+    System.out.println("Current: " + currentExpr);
+    
+    System.out.println("Remaining: " + remainingExpr);
+  }
+  
+  public void detectInput(){
+  
+    String addRegEx = "\\d+\\Q+\\E";
+    String subtractRegEx = "\\d+\\Q-\\E";
+    String mulRegEx = "\\d+\\Q*\\E";
+    String divRegEx = "\\d+\\Q/\\E";
+    
+    if (Pattern.matches (addRegEx, currentExpr)){
+      System.out.println("Add");
+    } else if (Pattern.matches (subtractRegEx, currentExpr)){
+      System.out.println("Subtract");
+    } else if (Pattern.matches (mulRegEx, currentExpr)){
+      System.out.println("Multiply");
+    } else if (Pattern.matches (divRegEx, currentExpr)){
+      System.out.println("Divide");
+    }
+  }
+  
+}

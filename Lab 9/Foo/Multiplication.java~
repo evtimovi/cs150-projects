@@ -1,0 +1,67 @@
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * This is a calculator class. It doesn't use the crap described in the lab assignment.
+ */
+public class Multiplication extends AbstractMathExpression{
+ 
+ 
+  /**
+   * This method performs recursive addition in a tree-like manner.
+   */
+  private String multiply(String inputString){
+    
+    /**
+     * Store the input string into the class's instance variable.
+     */
+    this.inputString = inputString;
+        
+   
+    //split the input into a current expression to be processed here (a number and an operator)
+    //and a remaining expression
+    splitInput();
+    
+    //if the remaining expression is just a number (no operator), we are ready to evaluate
+    if( Pattern.matches("\\d+", rightSide) ){
+
+      //get the values of hte two expressions
+      Integer leftNum = Integer.parseInt(leftSide);
+      Integer rightNum = Integer.parseInt(rightSide);
+      
+      //sum them (perform addition)
+      int sumResult = leftNum * rightNum;
+      
+      //return the output as a string
+      return String.valueOf(sumResult);
+
+    } else {
+      
+      //create a new instance of the addition class
+      Multiplication tempCalc = new Multiplication();
+      
+      //if the right expression has an operator, pass down the tree
+      String resultOfSubExpression = tempCalc.multiply(rightSide);
+      
+      return resultOfSubExpression;
+      
+    }
+
+  }
+  
+
+  public static void main(String[] args){
+  
+    Addition a1 = new Addition();
+    
+    String resultA1 = a1.add("5875+43324");
+    
+    int actual = 5875+43324;
+    
+    System.out.println(resultA1);
+    System.out.println("Actual: " + actual);
+  }
+  
+  
+}

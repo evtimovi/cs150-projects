@@ -1,0 +1,37 @@
+import junit.framework.TestCase;
+
+/**
+ * A JUnit test case class for the database.
+ * It uses a testDatabase.txt as input.
+ * 
+ * @author Ivan Evtimov
+ */
+public class TestDatabase extends TestCase {
+  
+  /**
+   * This is going to be the test instance that is going to be used 
+   * throughout the test.
+   * 
+   */
+  private Database testDatabase;
+  
+  /**
+   * The setUp method creates the test database based on the testDatabase.txt input file.
+   * 
+   */
+  public void setUp(){
+    //create the database
+    testDatabase = new Database();
+    
+    //fill it up
+    testDatabase.createDatabaseFromFile( "testDatabase.txt" );
+  }
+  
+  /**
+   * A test method for the addNewRestaurant() method.
+   */
+  public void testGetAll() {
+    
+  }
+  
+}

@@ -1,0 +1,46 @@
+Store 14 was supplied with bananas 3
+Store 14 was supplied with beef 3
+Store 14 was supplied with vegetables 5
+Store 14 was supplied with soda 8
+Store 14 was supplied with towels 10
+Store 13 was supplied with bananas 8
+Store 13 was supplied with beef 1
+Store 13 was supplied with vegetables 5
+Store 13 was supplied with soda 1
+Store 9 was supplied with bananas 7
+Store 9 was supplied with beef 2
+Store 9 was supplied with vegetables 5
+Store 9 was supplied with soda 10
+Store 9 was supplied with towels 6
+Store 10 was supplied with bananas 7
+Store 10 was supplied with beef 7
+Store 10 was supplied with vegetables 3
+Store 10 was supplied with soda 8
+Store 10 was supplied with towels 6
+Store 19 was supplied with bananas 3
+Store 19 was supplied with beef 10
+Store 19 was supplied with vegetables 4
+Store 24 was supplied with bananas 1
+Store 24 was supplied with beef 2
+Store 24 was supplied with vegetables 10
+Store 24 was supplied with soda 7
+Store 24 was supplied with towels 4
+Store 15 was supplied with bananas 4
+Store 15 was supplied with beef 8
+Store 15 was supplied with vegetables 4
+Store 15 was supplied with soda 1
+Store 15 was supplied with towels 9
+Writing result: true
+6 1 [14] beef 3 bananas 3 vegetables 5 soda 8 
+6 2 [14] towels 10 
+6 3 [13] beef 1 bananas 8 vegetables 5 soda 1 
+16 4 [9] beef 2 bananas 7 vegetables 5 soda 10 
+16 5 [9, 14, 10] beef 7 bananas 7 vegetables 3 towels 6 
+16 6 [10, 19] beef 10 bananas 3 vegetables 4 soda 8 towels 6 
+18 7 [24, 9, 10] beef 2 bananas 1 vegetables 10 soda 7 towels 4 
+18 8 [15] beef 8 bananas 4 vegetables 4 soda 1 
+18 9 [15] towels 9 
+
+Stores with unmet needs: []
+Unprocessed stores: 
+[11]

@@ -1,0 +1,13 @@
+24 1 [17] beef 2 bananas 2 vegetables 3 soda 3 towels 7 
+24 2 [9] beef 7 bananas 5 vegetables 4 soda 8 
+24 3 [9] towels 10 
+20 4 [17, 6] beef 8 bananas 8 vegetables 6 soda 4 
+20 5 [6, 14] beef 6 bananas 7 soda 6 towels 5 
+20 6 [14, 9] vegetables 8 towels 8 
+23 7 [17, 6, 9, 21] beef 4 bananas 4 vegetables 5 soda 10 towels 5 
+23 8 [15] beef 8 bananas 7 vegetables 6 soda 5 
+23 9 [15] towels 7 
+3 10 [12] beef 5 bananas 10 vegetables 6 soda 3 
+3 11 [12, 17, 9, 6, 14] towels 7 
+3 12 [19] beef 8 bananas 2 vegetables 3 soda 3 
+16 13 [9, 14, 6, 21, 12, 19, 15] towels 10 

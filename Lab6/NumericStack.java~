@@ -1,0 +1,60 @@
+/**
+ * A class that provides an implementation of the Stack data structure,
+ * but does not extend or implement any of the API classes.
+ * The class is designed to be generic and to accept only 
+ * data types that are inherited from the Number class.
+ * 
+ * @author Ivan Evtimov
+ */
+public class NumericStack<E>{
+  
+/**
+ * This field stores the data on the stack. 
+ */
+  private MyLinkedList<? extends Number> listCont;
+  
+  /**
+   * Constructor initializes the internal container.
+   */
+  public NumericStack<E>(){
+    listCont = new MyLinkedList<? extends Number>();
+  }
+  
+  /**
+   * Test if the stack is empty.
+   * @return true if empty,
+   * false if at least one element in stack
+   */
+  public boolean empty(){
+  
+    return true;
+  }
+//  
+//  public E peek(){
+//    
+//     
+//  
+//    return e;
+//    
+//  }
+//  
+//  public E pop(){
+//    
+//     E e;
+//  
+//    return e;
+//  }
+//  
+//  public E push (E item){
+//  
+//   E e;
+//  
+//    return e;
+//  }
+  
+  public int search(Object o){
+  
+  
+    return 1;
+  }
+}

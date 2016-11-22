@@ -1,0 +1,336 @@
+reviewers: 0
+name: The Lyre of Orpheus
+open: Sunday 08:00 16:00,Monday 06:00 20:00,Tuesday 06:00 20:00,Wednesday 06:00 20:00,Thursday 06:00 20:00,Friday 06:00 20:00,Saturday 06:00 01:00
+cost: $$
+category: Greek,Breakfast & Brunch,Seafood,Salad,Soup
+city: San Francisco
+rank: 0
+
+reviewers: 0
+rank: 0
+cost: $$$
+category: Turkish,Soup,Salad,Pizza
+open: Sunday 10:00 16:00,Monday 07:00 20:00,Tuesday 07:00 20:00,Wednesday 07:00 20:00,Thursday 07:00 20:00,Friday 07:00 20:00,Saturday 07:00 20:00
+name: Renan's Turkish Pizzeria
+city: San Francisco
+
+reviewers: 0
+city: San Francisco
+cost: $$
+name: The Stone Hedge Lodge
+open: Sunday 11:30 23:00,Monday 09:30 01:30,Tuesday 09:30 01:30,Wednesday 09:30 01:30,Thursday 09:30 01:30,Friday 09:30 01:30,Saturday 10:30 02:30
+rank: 0
+category: British,Scottish,Fish & Chips
+
+category: Hot Dogs,Cheesesteaks,Burgers,Live/Raw Food,Sushi Bars,Cannibalism
+cost: $$$
+open: Sunday 10:00 13:00,Monday 10:00 13:00,Tuesday 10:00 13:00,Wednesday 10:00 13:00,Thursday 10:00 13:00,Friday 10:00 13:00,Saturday 10:00 13:00
+reviewers: 0
+city: San Francisco
+name: The Hannibal Hut
+rank: 0
+
+open: Sunday 10:00 16:00,Monday 07:00 20:00,Tuesday 07:00 20:00,Wednesday 07:00 20:00,Thursday 07:00 20:00,Friday 07:00 20:00,Saturday 07:00 20:00
+cost: $$
+rank: 0
+city: San Francisco
+reviewers: 0
+name: The Noodle House
+category: Thai,Asian Fusion
+
+rank: 0
+name: The Marina
+category: Seafood,Soup,Fish & Chips,Food Stands
+cost: $
+city: San Francisco
+reviewers: 0
+open: Sunday 11:00 16:00,Monday 10:00 16:00,Tuesday 10:00 16:00,Wednesday 10:00 16:00,Thursday 10:00 16:00,Friday 10:00 16:00,Saturday 09:00 20:00
+
+reviewers: 0
+rank: 0
+name: The Bad Seeds Grill
+cost: $
+city: San Francisco
+category: Burgers,Hot Dogs,Fast Food
+open: Sunday 11:30 23:00,Monday 09:30 01:30,Tuesday 09:30 01:30,Wednesday 09:30 01:30,Thursday 09:30 01:30,Friday 09:30 01:30,Saturday 10:30 02:30
+
+reviewers: 0
+city: San Francisco
+open: Sunday 11:00 16:00,Monday 10:00 16:00,Tuesday 10:00 16:00,Wednesday 10:00 16:00,Thursday 10:00 16:00,Friday 10:00 16:00,Saturday 09:00 20:00
+category: Soup
+rank: 0
+name: We Like Soup
+cost: $
+
+reviewers: 0
+city: Boston
+name: Nick's Cave
+category: Beer,Wine & Spirits,Pretzels
+open: Sunday 13:00 03:00,Monday 17:00 01:00,Tuesday 17:00 01:00,Wednesday 17:00 01:00,Thursday 17:00 01:00,Friday 13:00 03:00,Saturday 13:00 03:00
+cost: $
+rank: 0
+
+name: Donner's Pub
+city: Boston
+cost: $$$
+reviewers: 0
+category: Cannibalism,Butcher,Specialty Food,Meat Shops,Street Vendors
+rank: 0
+open: Sunday 10:00 13:00,Monday 10:00 13:00,Tuesday 10:00 13:00,Wednesday 10:00 13:00,Thursday 10:00 13:00,Friday 10:00 13:00,Saturday 10:00 13:00
+
+cost: $$
+reviewers: 0
+rank: 0
+city: Boston
+category: Bubble Tea,Street Vendor,Desserts
+open: Sunday 10:00 17:00,Monday 10:00 17:00,Tuesday 10:00 17:00,Wednesday 10:00 17:00,Thursday 10:00 17:00,Friday 10:00 17:00,Saturday 10:00 17:00
+name: The Lonely Garden
+
+name: The Leatherwing Cat
+city: Boston
+category: Bakeries,Desserts,Juice Bars & Smoothies
+rank: 0
+cost: $
+reviewers: 0
+open: Sunday 12:30 15:00,Monday 11:00 15:00,Tuesday 11:00 15:00,Wednesday 11:00 15:00,Thursday 11:00 15:00,Friday 11:00 15:00,Saturday 09:00 16:00
+
+reviewers: 0
+rank: 0
+category: Breweries,Soup,Salad,Fish & Chips,Fast Food
+cost: $
+open: Sunday 11:30 20:00,Monday 11:30 20:00,Tuesday 11:30 20:00,Wednesday 11:30 20:00,Thursday 11:30 20:00,Friday 11:30 20:00,Saturday 11:30 20:00
+city: Boston
+name: Boxing Ring
+
+reviewers: 0
+name: Under the Highway
+rank: 0
+category: Burgers,Cheesesteaks,Chicken Wings,Fast Food,Hot Dog
+cost: $
+city: Boston
+open: Sunday 11:30 23:00,Monday 09:30 01:30,Tuesday 09:30 01:30,Wednesday 09:30 01:30,Thursday 09:30 01:30,Friday 09:30 01:30,Saturday 10:30 02:30
+
+rank: 0
+cost: $$
+city: Boston
+open: Sunday 12:30 15:00,Monday 11:00 15:00,Tuesday 11:00 15:00,Wednesday 11:00 15:00,Thursday 11:00 15:00,Friday 11:00 15:00,Saturday 09:00 16:00
+reviewers: 0
+category: Australian,Cafes,Salad,Soup
+name: The Kangaroo's Pouch
+
+category: Burgers,Hot Dogs,Fast Food
+rank: 0
+reviewers: 0
+cost: $
+open: Sunday 11:30 23:00,Monday 09:30 01:30,Tuesday 09:30 01:30,Wednesday 09:30 01:30,Thursday 09:30 01:30,Friday 09:30 01:30,Saturday 10:30 02:30
+city: Boston
+name: The Bad Seeds Grill
+
+name: The Royal Soup Kitchen
+cost: $$$
+category: Soup
+reviewers: 0
+rank: 0
+open: Sunday 13:00 03:00,Monday 17:00 01:00,Tuesday 17:00 01:00,Wednesday 17:00 01:00,Thursday 17:00 01:00,Friday 13:00 03:00,Saturday 13:00 03:00
+city: Boston
+
+rank: 0
+cost: $$
+open: Sunday 10:00 03:00,Monday 05:00 16:00,Tuesday 05:00 16:00,Wednesday 05:00 16:00,Thursday 05:00 16:00,Friday 05:00 16:00,Saturday 05:00 20:00
+name: Tacos For Machos
+city: Boston
+category: Mexican,Burgers,Tex-Mex
+reviewers: 0
+
+open: Sunday 08:00 09:00,Monday 08:00 09:00,Tuesday 08:00 09:00,Wednesday 08:00 09:00,Thursday 08:00 09:00,Friday 08:00 09:00,Saturday 08:00 09:00
+name: This Is Totally Not A Mob Front
+category: Hot Dogs
+rank: 0
+cost: $$$
+reviewers: 0
+city: Chicago
+
+reviewers: 0
+city: Chicago
+open: Sunday 10:00 16:00,Monday 09:00 18:00,Tuesday 09:00 18:00,Wednesday 09:00 18:00,Thursday 09:00 18:00,Friday 09:00 18:00,Saturday 09:00 20:00
+name: The Fondue Palace
+category: Fondue
+rank: 0
+cost: $$
+
+open: Sunday 11:00 18:30,Monday 09:00 22:30,Tuesday 09:00 22:30,Wednesday 09:00 22:30,Thursday 09:00 22:30,Friday 09:00 22:30,Saturday 09:00 02:30
+city: Chicago
+cost: $$$
+reviewers: 0
+rank: 0
+name: Sushi Hut
+category: Sushi Bars,Seafood,Live/Raw Food
+
+name: East Chicago Senior High School
+city: Chicago
+cost: $
+reviewers: 0
+open: Sunday 00:00 00:00,Monday 11:00 13:30,Tuesday 11:00 13:30,Wednesday 11:00 13:30,Thursday 11:00 13:30,Friday 11:00 13:30,Saturday 00:00 00:00
+category: Cafeteria,Cafes,Delis,Soup,Salad,Breakfast & Brunch
+rank: 0
+
+category: Soup
+city: Chicago
+cost: $$$
+name: Soup Is Good Food
+open: Sunday 13:00 03:00,Monday 17:00 01:00,Tuesday 17:00 01:00,Wednesday 17:00 01:00,Thursday 17:00 01:00,Friday 13:00 03:00,Saturday 13:00 03:00
+rank: 0
+reviewers: 0
+
+city: Chicago
+cost: $$
+open: Sunday 11:00 18:30,Monday 09:00 22:30,Tuesday 09:00 22:30,Wednesday 09:00 22:30,Thursday 09:00 22:30,Friday 09:00 22:30,Saturday 09:00 02:30
+rank: 0
+reviewers: 0
+name: The Chicago Crown
+category: British,Scottish,Soup,Fish & Chips,Modern European,Salad
+
+category: Mexican,Tex-Mex,Seafood
+reviewers: 0
+rank: 0
+city: Chicago
+cost: $$
+open: Sunday 10:00 03:00,Monday 05:00 16:00,Tuesday 05:00 16:00,Wednesday 05:00 16:00,Thursday 05:00 16:00,Friday 05:00 16:00,Saturday 05:00 20:00
+name: Tacos For You Tacos For Me
+
+city: Chicago
+open: Sunday 10:00 13:00,Monday 10:00 13:00,Tuesday 10:00 13:00,Wednesday 10:00 13:00,Thursday 10:00 13:00,Friday 10:00 13:00,Saturday 10:00 13:00
+reviewers: 0
+cost: $$$
+rank: 0
+category: Tex-Mex,Mexican,Southern,Live/Raw Food,Cannibalism
+name: Buffalo Bill's Fall
+
+category: Buffets,Burgers,Soup,Salad,Cheesesteaks
+rank: 0
+cost: $$$
+city: Philadelphia
+name: The E Street Shuffle
+open: Sunday 10:00 03:00,Monday 05:00 16:00,Tuesday 05:00 16:00,Wednesday 05:00 16:00,Thursday 05:00 16:00,Friday 05:00 16:00,Saturday 05:00 20:00
+reviewers: 0
+
+open: Sunday 10:00 18:30,Monday 09:00 21:30,Tuesday 09:00 21:30,Wednesday 09:00 21:30,Thursday 09:00 21:30,Friday 09:00 21:30,Saturday 09:00 01:30
+reviewers: 0
+city: Philadelphia
+category: Food Court,Chicken Wings,Cheesesteaks,Burgers
+cost: $$$
+rank: 0
+name: Roselita's
+
+rank: 0
+category: Pizza,Food Court,Fast Food
+reviewers: 0
+name: Magic
+city: Philadelphia
+cost: $
+open: Sunday 10:00 16:30,Monday 09:00 20:30,Tuesday 09:00 20:30,Wednesday 09:00 20:30,Thursday 09:00 20:30,Friday 09:00 20:30,Saturday 09:00 22:30
+
+reviewers: 0
+cost: $
+category: Burgers,Cheesesteaks,Chicken Wings,Fast Food,Hot Dog
+city: Philadelphia
+open: Sunday 11:30 23:00,Monday 09:30 01:30,Tuesday 09:30 01:30,Wednesday 09:30 01:30,Thursday 09:30 01:30,Friday 09:30 01:30,Saturday 10:30 02:30
+rank: 0
+name: Market Street Market
+
+category: Cafes,Creperies
+open: Sunday 10:00 18:30,Monday 09:00 21:30,Tuesday 09:00 21:30,Wednesday 09:00 21:30,Thursday 09:00 21:30,Friday 09:00 21:30,Saturday 09:00 01:30
+city: Philadelphia
+name: Emilie's Bakery
+cost: $$
+rank: 0
+reviewers: 0
+
+reviewers: 0
+name: Badlands Burger Bar
+cost: $
+category: Burgers,Fast Food,Hot Dogs
+rank: 0
+open: Sunday 10:00 18:30,Monday 09:00 21:30,Tuesday 09:00 21:30,Wednesday 09:00 21:30,Thursday 09:00 21:30,Friday 09:00 21:30,Saturday 09:00 01:30
+city: Philadelphia
+
+city: Philadelphia
+reviewers: 0
+category: Soup,Salad,Greek,Modern European,Sandwiches
+name: The Only Healthy Food In Philly
+cost: $$$
+rank: 0
+open: Sunday 09:00 18:30,Monday 08:00 22:30,Tuesday 08:00 22:30,Wednesday 08:00 22:30,Thursday 08:00 22:30,Friday 08:00 22:30,Saturday 08:00 23:30
+
+reviewers: 0
+rank: 0
+cost: $$
+open: Sunday 10:00 18:30,Monday 09:00 19:30,Tuesday 09:00 19:30,Wednesday 09:00 19:30,Thursday 09:00 19:30,Friday 09:00 19:30,Saturday 09:00 19:30
+category: Deli,Sandwiches,Vegetarian,Salad
+city: Philadelphia
+name: Smeli Deli
+
+reviewers: 0
+cost: $$
+category: Barbeque,Burgers,Hot Dogs,Chicken Wings
+city: New York
+rank: 0
+name: Joey's Grill
+open: Sunday 10:00 16:30,Monday 10:00 01:30,Tuesday 10:00 01:30,Wednesday 10:00 01:30,Thursday 10:00 01:30,Friday 10:00 01:30,Saturday 10:00 01:30
+
+category: Italian,Salad,Soup
+cost: $$
+reviewers: 0
+rank: 0
+name: Mama Rose's
+open: Sunday 09:00 18:30,Monday 08:00 22:30,Tuesday 08:00 22:30,Wednesday 08:00 22:30,Thursday 08:00 22:30,Friday 08:00 22:30,Saturday 08:00 23:30
+city: New York
+
+cost: $
+rank: 0
+name: Happy Wok
+category: Chinese
+city: New York
+open: Sunday 10:00 03:00,Monday 05:00 16:00,Tuesday 05:00 16:00,Wednesday 05:00 16:00,Thursday 05:00 16:00,Friday 05:00 16:00,Saturday 05:00 20:00
+reviewers: 0
+
+city: New York
+cost: $
+open: Sunday 13:00 03:00,Monday 17:00 01:00,Tuesday 17:00 01:00,Wednesday 17:00 01:00,Thursday 17:00 01:00,Friday 13:00 03:00,Saturday 13:00 03:00
+rank: 0
+reviewers: 0
+category: Soup,Sandwiches
+name: Soup4Sue
+
+name: Fair Eats
+category: Vegan,Vegetarian,Gluten-Free,Salad,Sandwiches,Soup
+reviewers: 0
+rank: 0
+cost: $$$
+city: New York
+open: Sunday 10:00 16:30,Monday 09:00 20:30,Tuesday 09:00 20:30,Wednesday 09:00 20:30,Thursday 09:00 20:30,Friday 09:00 20:30,Saturday 09:00 22:30
+
+rank: 0
+open: Sunday 09:00 20:30,Monday 09:00 20:30,Tuesday 09:00 20:30,Wednesday 09:00 20:30,Thursday 09:00 20:30,Friday 09:00 20:30,Saturday 09:00 20:30
+category: Sushi Bars,Live/Raw Food,Seafood
+city: New York
+name: Central Park Sushi
+reviewers: 0
+cost: $$$
+
+cost: $
+category: Fast Food,Burgers,Hot Dogs
+name: Fry Factory
+city: New York
+reviewers: 0
+open: Sunday 10:00 21:00,Monday 10:00 21:00,Tuesday 10:00 21:00,Wednesday 10:00 21:00,Thursday 10:00 21:00,Friday 10:00 21:00,Saturday 10:00 21:00
+rank: 0
+
+rank: 0
+reviewers: 0
+cost: $$
+name: Brick Oven Flames
+city: New York
+category: Pizza
+open: Sunday 09:00 22:00,Monday 09:00 22:00,Tuesday 09:00 22:00,Wednesday 09:00 22:00,Thursday 09:00 22:00,Friday 09:00 22:00,Saturday 09:00 22:00
+

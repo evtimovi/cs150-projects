@@ -1,0 +1,21 @@
+import junit.framework.TestCase;
+
+/**
+ * A JUnit test case class.
+ * Every method starting with the word "test" will be called when running
+ * the test with JUnit.
+ */
+public class TestDice extends TestCase {
+  
+  /**
+   * A test method.
+   * (Replace "X" with a name describing the test.  You may write as
+   * many "testSomething" methods in this class as you wish, and each
+   * one will be called when running JUnit over this class.)
+   */
+  public void testRoll() {
+    Dice d = new Dice(29);
+    assertTrue("Number should be between 1 and 6!!!", d.roll()>6||d.roll()<1);
+  }
+  
+}

@@ -1,0 +1,504 @@
+New York;Italian;$$$;Monday;03:30
+New York;Italian;$$$;Monday;13:30
+New York;Italian;$$$;Tuesday;10:30
+New York;Italian;$$$;Wednesday;11:30
+New York;Italian;$$$;Thursday;17:26
+New York;Italian;$$$;Friday;22:30
+New York;Italian;$$$;Saturday;01:30
+New York;Italian;$$$;Sunday;13:30
+New York;Italian;$$;Monday;03:30
+New York;Italian;$$;Monday;13:30
+New York;Italian;$$;Tuesday;10:30
+New York;Italian;$$;Wednesday;11:30
+New York;Italian;$$;Thursday;17:26
+New York;Italian;$$;Friday;22:30
+New York;Italian;$$;Saturday;01:30
+New York;Italian;$$;Sunday;13:30
+New York;Italian;$;Monday;03:30
+New York;Italian;$;Monday;13:30
+New York;Italian;$;Tuesday;10:30
+New York;Italian;$;Wednesday;11:30
+New York;Italian;$;Thursday;17:26
+New York;Italian;$;Friday;22:30
+New York;Italian;$;Saturday;01:30
+New York;Italian;$;Sunday;13:30
+New York;Italian;*;Monday;03:30
+New York;Italian;*;Monday;13:30
+New York;Italian;*;Tuesday;10:30
+New York;Italian;*;Wednesday;11:30
+New York;Italian;*;Thursday;17:26
+New York;Italian;*;Friday;22:30
+New York;Italian;*;Saturday;01:30
+New York;Italian;*;Sunday;13:30
+New York;Italian;$$$;Monday;03:30
+Boston;Italian;$$$;Monday;13:30
+Boston;Italian;$$$;Tuesday;10:30
+Boston;Italian;$$$;Wednesday;11:30
+Boston;Italian;$$$;Thursday;17:26
+Boston;Italian;$$$;Friday;22:30
+Boston;Italian;$$$;Saturday;01:30
+Boston;Italian;$$$;Sunday;13:30
+Boston;Italian;$$;Monday;03:30
+Boston;Italian;$$;Monday;13:30
+Boston;Italian;$$;Tuesday;10:30
+Boston;Italian;$$;Wednesday;11:30
+Boston;Italian;$$;Thursday;17:26
+Boston;Italian;$$;Friday;22:30
+Boston;Italian;$$;Saturday;01:30
+Boston;Italian;$$;Sunday;13:30
+Boston;Italian;$;Monday;03:30
+Boston;Italian;$;Monday;13:30
+Boston;Italian;$;Tuesday;10:30
+Boston;Italian;$;Wednesday;11:30
+Boston;Italian;$;Thursday;17:26
+Boston;Italian;$;Friday;22:30
+Boston;Italian;$;Saturday;01:30
+Boston;Italian;$;Sunday;13:30
+Boston;Italian;*;Monday;03:30
+Boston;Italian;*;Monday;13:30
+Boston;Italian;*;Tuesday;10:30
+Boston;Italian;*;Wednesday;11:30
+Boston;Italian;*;Thursday;17:26
+Boston;Italian;*;Friday;22:30
+Boston;Italian;*;Saturday;01:30
+Boston;Italian;*;Sunday;13:30
+Boston;Italian;$$$;Monday;13:30
+San Francisco;Italian;$$$;Tuesday;10:30
+San Francisco;Italian;$$$;Wednesday;11:30
+San Francisco;Italian;$$$;Thursday;17:26
+San Francisco;Italian;$$$;Friday;22:30
+San Francisco;Italian;$$$;Saturday;01:30
+San Francisco;Italian;$$$;Sunday;13:30
+San Francisco;Italian;$$;Monday;03:30
+San Francisco;Italian;$$;Monday;13:30
+San Francisco;Italian;$$;Tuesday;10:30
+San Francisco;Italian;$$;Wednesday;11:30
+San Francisco;Italian;$$;Thursday;17:26
+San Francisco;Italian;$$;Friday;22:30
+San Francisco;Italian;$$;Saturday;01:30
+San Francisco;Italian;$$;Sunday;13:30
+San Francisco;Italian;$;Monday;03:30
+San Francisco;Italian;$;Monday;13:30
+San Francisco;Italian;$;Tuesday;10:30
+San Francisco;Italian;$;Wednesday;11:30
+San Francisco;Italian;$;Thursday;17:26
+San Francisco;Italian;$;Friday;22:30
+San Francisco;Italian;$;Saturday;01:30
+San Francisco;Italian;$;Sunday;13:30
+San Francisco;Italian;*;Monday;03:30
+San Francisco;Italian;*;Monday;13:30
+San Francisco;Italian;*;Tuesday;10:30
+San Francisco;Italian;*;Wednesday;11:30
+San Francisco;Italian;*;Thursday;17:26
+San Francisco;Italian;*;Friday;22:30
+San Francisco;Italian;*;Saturday;01:30
+San Francisco;Italian;*;Sunday;13:30
+Boston;Italian;$$$;Monday;13:30
+Chicago;Italian;$$$;Tuesday;10:30
+Chicago;Italian;$$$;Wednesday;11:30
+Chicago;Italian;$$$;Thursday;17:26
+Chicago;Italian;$$$;Friday;22:30
+Chicago;Italian;$$$;Saturday;01:30
+Chicago;Italian;$$$;Sunday;13:30
+Chicago;Italian;$$;Monday;03:30
+Chicago;Italian;$$;Monday;13:30
+Chicago;Italian;$$;Tuesday;10:30
+Chicago;Italian;$$;Wednesday;11:30
+Chicago;Italian;$$;Thursday;17:26
+Chicago;Italian;$$;Friday;22:30
+Chicago;Italian;$$;Saturday;01:30
+Chicago;Italian;$$;Sunday;13:30
+Chicago;Italian;$;Monday;03:30
+Chicago;Italian;$;Monday;13:30
+Chicago;Italian;$;Tuesday;10:30
+Chicago;Italian;$;Wednesday;11:30
+Chicago;Italian;$;Thursday;17:26
+Chicago;Italian;$;Friday;22:30
+Chicago;Italian;$;Saturday;01:30
+Chicago;Italian;$;Sunday;13:30
+Chicago;Italian;*;Monday;03:30
+Chicago;Italian;*;Monday;13:30
+Chicago;Italian;*;Tuesday;10:30
+Chicago;Italian;*;Wednesday;11:30
+Chicago;Italian;*;Thursday;17:26
+Chicago;Italian;*;Friday;22:30
+Chicago;Italian;*;Saturday;01:30
+Chicago;Italian;*;Sunday;13:30
+New York;Salad,Soup;$$$;Monday;03:30
+New York;Salad,Soup;$$$;Monday;13:30
+New York;Salad,Soup;$$$;Tuesday;10:30
+New York;Salad,Soup;$$$;Wednesday;11:30
+New York;Salad,Soup;$$$;Thursday;17:26
+New York;Salad,Soup;$$$;Friday;22:30
+New York;Salad,Soup;$$$;Saturday;01:30
+New York;Salad,Soup;$$$;Sunday;13:30
+New York;Salad,Soup;$$;Monday;03:30
+New York;Salad,Soup;$$;Monday;13:30
+New York;Salad,Soup;$$;Tuesday;10:30
+New York;Salad,Soup;$$;Wednesday;11:30
+New York;Salad,Soup;$$;Thursday;17:26
+New York;Salad,Soup;$$;Friday;22:30
+New York;Salad,Soup;$$;Saturday;01:30
+New York;Salad,Soup;$$;Sunday;13:30
+New York;Salad,Soup;$;Monday;03:30
+New York;Salad,Soup;$;Monday;13:30
+New York;Salad,Soup;$;Tuesday;10:30
+New York;Salad,Soup;$;Wednesday;11:30
+New York;Salad,Soup;$;Thursday;17:26
+New York;Salad,Soup;$;Friday;22:30
+New York;Salad,Soup;$;Saturday;01:30
+New York;Salad,Soup;$;Sunday;13:30
+New York;Salad,Soup;*;Monday;03:30
+New York;Salad,Soup;*;Monday;13:30
+New York;Salad,Soup;*;Tuesday;10:30
+New York;Salad,Soup;*;Wednesday;11:30
+New York;Salad,Soup;*;Thursday;17:26
+New York;Salad,Soup;*;Friday;22:30
+New York;Salad,Soup;*;Saturday;01:30
+New York;Salad,Soup;*;Sunday;13:30
+New York;Salad,Soup;$$$;Monday;03:30
+Boston;Salad,Soup;$$$;Monday;13:30
+Boston;Salad,Soup;$$$;Tuesday;10:30
+Boston;Salad,Soup;$$$;Wednesday;11:30
+Boston;Salad,Soup;$$$;Thursday;17:26
+Boston;Salad,Soup;$$$;Friday;22:30
+Boston;Salad,Soup;$$$;Saturday;01:30
+Boston;Salad,Soup;$$$;Sunday;13:30
+Boston;Salad,Soup;$$;Monday;03:30
+Boston;Salad,Soup;$$;Monday;13:30
+Boston;Salad,Soup;$$;Tuesday;10:30
+Boston;Salad,Soup;$$;Wednesday;11:30
+Boston;Salad,Soup;$$;Thursday;17:26
+Boston;Salad,Soup;$$;Friday;22:30
+Boston;Salad,Soup;$$;Saturday;01:30
+Boston;Salad,Soup;$$;Sunday;13:30
+Boston;Salad,Soup;$;Monday;03:30
+Boston;Salad,Soup;$;Monday;13:30
+Boston;Salad,Soup;$;Tuesday;10:30
+Boston;Salad,Soup;$;Wednesday;11:30
+Boston;Salad,Soup;$;Thursday;17:26
+Boston;Salad,Soup;$;Friday;22:30
+Boston;Salad,Soup;$;Saturday;01:30
+Boston;Salad,Soup;$;Sunday;13:30
+Boston;Salad,Soup;*;Monday;03:30
+Boston;Salad,Soup;*;Monday;13:30
+Boston;Salad,Soup;*;Tuesday;10:30
+Boston;Salad,Soup;*;Wednesday;11:30
+Boston;Salad,Soup;*;Thursday;17:26
+Boston;Salad,Soup;*;Friday;22:30
+Boston;Salad,Soup;*;Saturday;01:30
+Boston;Salad,Soup;*;Sunday;13:30
+Boston;Salad,Soup;$$$;Monday;13:30
+San Francisco;Salad,Soup;$$$;Tuesday;10:30
+San Francisco;Salad,Soup;$$$;Wednesday;11:30
+San Francisco;Salad,Soup;$$$;Thursday;17:26
+San Francisco;Salad,Soup;$$$;Friday;22:30
+San Francisco;Salad,Soup;$$$;Saturday;01:30
+San Francisco;Salad,Soup;$$$;Sunday;13:30
+San Francisco;Salad,Soup;$$;Monday;03:30
+San Francisco;Salad,Soup;$$;Monday;13:30
+San Francisco;Salad,Soup;$$;Tuesday;10:30
+San Francisco;Salad,Soup;$$;Wednesday;11:30
+San Francisco;Salad,Soup;$$;Thursday;17:26
+San Francisco;Salad,Soup;$$;Friday;22:30
+San Francisco;Salad,Soup;$$;Saturday;01:30
+San Francisco;Salad,Soup;$$;Sunday;13:30
+San Francisco;Salad,Soup;$;Monday;03:30
+San Francisco;Salad,Soup;$;Monday;13:30
+San Francisco;Salad,Soup;$;Tuesday;10:30
+San Francisco;Salad,Soup;$;Wednesday;11:30
+San Francisco;Salad,Soup;$;Thursday;17:26
+San Francisco;Salad,Soup;$;Friday;22:30
+San Francisco;Salad,Soup;$;Saturday;01:30
+San Francisco;Salad,Soup;$;Sunday;13:30
+San Francisco;Salad,Soup;*;Monday;03:30
+San Francisco;Salad,Soup;*;Monday;13:30
+San Francisco;Salad,Soup;*;Tuesday;10:30
+San Francisco;Salad,Soup;*;Wednesday;11:30
+San Francisco;Salad,Soup;*;Thursday;17:26
+San Francisco;Salad,Soup;*;Friday;22:30
+San Francisco;Salad,Soup;*;Saturday;01:30
+San Francisco;Salad,Soup;*;Sunday;13:30
+Boston;Salad,Soup;$$$;Monday;13:30
+Chicago;Salad,Soup;$$$;Tuesday;10:30
+Chicago;Salad,Soup;$$$;Wednesday;11:30
+Chicago;Salad,Soup;$$$;Thursday;17:26
+Chicago;Salad,Soup;$$$;Friday;22:30
+Chicago;Salad,Soup;$$$;Saturday;01:30
+Chicago;Salad,Soup;$$$;Sunday;13:30
+Chicago;Salad,Soup;$$;Monday;03:30
+Chicago;Salad,Soup;$$;Monday;13:30
+Chicago;Salad,Soup;$$;Tuesday;10:30
+Chicago;Salad,Soup;$$;Wednesday;11:30
+Chicago;Salad,Soup;$$;Thursday;17:26
+Chicago;Salad,Soup;$$;Friday;22:30
+Chicago;Salad,Soup;$$;Saturday;01:30
+Chicago;Salad,Soup;$$;Sunday;13:30
+Chicago;Salad,Soup;$;Monday;03:30
+Chicago;Salad,Soup;$;Monday;13:30
+Chicago;Salad,Soup;$;Tuesday;10:30
+Chicago;Salad,Soup;$;Wednesday;11:30
+Chicago;Salad,Soup;$;Thursday;17:26
+Chicago;Salad,Soup;$;Friday;22:30
+Chicago;Salad,Soup;$;Saturday;01:30
+Chicago;Salad,Soup;$;Sunday;13:30
+Chicago;Salad,Soup;*;Monday;03:30
+Chicago;Salad,Soup;*;Monday;13:30
+Chicago;Salad,Soup;*;Tuesday;10:30
+Chicago;Salad,Soup;*;Wednesday;11:30
+Chicago;Salad,Soup;*;Thursday;17:26
+Chicago;Salad,Soup;*;Friday;22:30
+Chicago;Salad,Soup;*;Saturday;01:30
+Chicago;Salad,Soup;*;Sunday;13:30
+New York;*;$$$;Monday;03:30
+New York;*;$$$;Monday;13:30
+New York;*;$$$;Tuesday;10:30
+New York;*;$$$;Wednesday;11:30
+New York;*;$$$;Thursday;*
+New York;*;$$$;Friday;22:30
+New York;*;$$$;Saturday;01:30
+New York;*;$$$;Sunday;13:30
+New York;*;$$;Monday;03:30
+New York;*;$$;Monday;13:30
+New York;*;$$;Tuesday;10:30
+New York;*;$$;Wednesday;11:30
+New York;*;$$;Thursday;*
+New York;*;$$;Friday;22:30
+New York;*;$$;Saturday;01:30
+New York;*;$$;Sunday;13:30
+New York;*;$;Monday;03:30
+New York;*;$;Monday;13:30
+New York;*;$;Tuesday;10:30
+New York;*;$;Wednesday;11:30
+New York;*;$;Thursday;*
+New York;*;$;Friday;22:30
+New York;*;$;Saturday;01:30
+New York;*;$;Sunday;13:30
+New York;*;*;Monday;03:30
+New York;*;*;Monday;13:30
+New York;*;*;Tuesday;10:30
+New York;*;*;Wednesday;11:30
+New York;*;*;Thursday;*
+New York;*;*;Friday;22:30
+New York;*;*;Saturday;01:30
+New York;*;*;Sunday;13:30
+New York;*;$$$;Monday;03:30
+Boston;*;$$$;Monday;13:30
+Boston;*;$$$;Tuesday;10:30
+Boston;*;$$$;Wednesday;11:30
+Boston;*;$$$;Thursday;*
+Boston;*;$$$;Friday;22:30
+Boston;*;$$$;Saturday;01:30
+Boston;*;$$$;Sunday;13:30
+Boston;*;$$;Monday;03:30
+Boston;*;$$;Monday;13:30
+Boston;*;$$;Tuesday;10:30
+Boston;*;$$;Wednesday;11:30
+Boston;*;$$;Thursday;*
+Boston;*;$$;Friday;22:30
+Boston;*;$$;Saturday;01:30
+Boston;*;$$;Sunday;13:30
+Boston;*;$;Monday;03:30
+Boston;*;$;Monday;13:30
+Boston;*;$;Tuesday;10:30
+Boston;*;$;Wednesday;11:30
+Boston;*;$;Thursday;*
+Boston;*;$;Friday;22:30
+Boston;*;$;Saturday;01:30
+Boston;*;$;Sunday;13:30
+Boston;*;*;Monday;03:30
+Boston;*;*;Monday;13:30
+Boston;*;*;Tuesday;10:30
+Boston;*;*;Wednesday;11:30
+Boston;*;*;Thursday;*
+Boston;*;*;Friday;22:30
+Boston;*;*;Saturday;01:30
+Boston;*;*;Sunday;13:30
+Boston;*;$$$;Monday;13:30
+San Francisco;*;$$$;Tuesday;10:30
+San Francisco;*;$$$;Wednesday;11:30
+San Francisco;*;$$$;Thursday;*
+San Francisco;*;$$$;Friday;22:30
+San Francisco;*;$$$;Saturday;01:30
+San Francisco;*;$$$;Sunday;13:30
+San Francisco;*;$$;Monday;03:30
+San Francisco;*;$$;Monday;13:30
+San Francisco;*;$$;Tuesday;10:30
+San Francisco;*;$$;Wednesday;11:30
+San Francisco;*;$$;Thursday;*
+San Francisco;*;$$;Friday;22:30
+San Francisco;*;$$;Saturday;01:30
+San Francisco;*;$$;Sunday;13:30
+San Francisco;*;$;Monday;03:30
+San Francisco;*;$;Monday;13:30
+San Francisco;*;$;Tuesday;10:30
+San Francisco;*;$;Wednesday;11:30
+San Francisco;*;$;Thursday;*
+San Francisco;*;$;Friday;22:30
+San Francisco;*;$;Saturday;01:30
+San Francisco;*;$;Sunday;13:30
+San Francisco;*;*;Monday;03:30
+San Francisco;*;*;Monday;13:30
+San Francisco;*;*;Tuesday;10:30
+San Francisco;*;*;Wednesday;11:30
+San Francisco;*;*;Thursday;*
+San Francisco;*;*;Friday;22:30
+San Francisco;*;*;Saturday;01:30
+San Francisco;*;*;Sunday;13:30
+Boston;*;$$$;Monday;13:30
+Chicago;*;$$$;Tuesday;10:30
+Chicago;*;$$$;Wednesday;11:30
+Chicago;*;$$$;Thursday;*
+Chicago;*;$$$;Friday;22:30
+Chicago;*;$$$;Saturday;01:30
+Chicago;*;$$$;Sunday;13:30
+Chicago;*;$$;Monday;03:30
+Chicago;*;$$;Monday;13:30
+Chicago;*;$$;Tuesday;10:30
+Chicago;*;$$;Wednesday;11:30
+Chicago;*;$$;Thursday;*
+Chicago;*;$$;Friday;22:30
+Chicago;*;$$;Saturday;01:30
+Chicago;*;$$;Sunday;13:30
+Chicago;*;$;Monday;03:30
+Chicago;*;$;Monday;13:30
+Chicago;*;$;Tuesday;10:30
+Chicago;*;$;Wednesday;11:30
+Chicago;*;$;Thursday;*
+Chicago;*;$;Friday;22:30
+Chicago;*;$;Saturday;01:30
+Chicago;*;$;Sunday;13:30
+Chicago;*;*;Monday;03:30
+Chicago;*;*;Monday;13:30
+Chicago;*;*;Tuesday;10:30
+Chicago;*;*;Wednesday;11:30
+Chicago;*;*;Thursday;*
+Chicago;*;*;Friday;22:30
+Chicago;*;*;Saturday;01:30
+Chicago;*;*;Sunday;13:30
+New York;*;$$$;*;03:30
+New York;*;$$$;*;13:30
+New York;*;$$$;*;10:30
+New York;*;$$$;Wednesday;*
+New York;*;$$$;Thursday;*
+New York;*;$$$;Friday;22:30
+New York;*;$$$;Saturday;*
+New York;*;$$$;*;13:30
+New York;*;$$;*;03:30
+New York;*;$$;*;13:30
+New York;*;$$;*;10:30
+New York;*;$$;Wednesday;*
+New York;*;$$;Thursday;*
+New York;*;$$;Friday;22:30
+New York;*;$$;Saturday;*
+New York;*;$$;*;13:30
+New York;*;$;*;03:30
+New York;*;$;*;13:30
+New York;*;$;*;10:30
+New York;*;$;Wednesday;*
+New York;*;$;Thursday;*
+New York;*;$;Friday;22:30
+New York;*;$;Saturday;*
+New York;*;$;*;13:30
+New York;*;*;*;03:30
+New York;*;*;*;13:30
+New York;*;*;*;10:30
+New York;*;*;Wednesday;*
+New York;*;*;Thursday;*
+New York;*;*;Friday;22:30
+New York;*;*;Saturday;*
+New York;*;*;*;13:30
+New York;*;$$$;*;03:30
+Boston;*;$$$;*;13:30
+Boston;*;$$$;*;10:30
+Boston;*;$$$;Wednesday;*
+Boston;*;$$$;Thursday;*
+Boston;*;$$$;Friday;22:30
+Boston;*;$$$;Saturday;*
+Boston;*;$$$;*;13:30
+Boston;*;$$;*;03:30
+Boston;*;$$;*;13:30
+Boston;*;$$;*;10:30
+Boston;*;$$;Wednesday;*
+Boston;*;$$;Thursday;*
+Boston;*;$$;Friday;22:30
+Boston;*;$$;Saturday;*
+Boston;*;$$;*;13:30
+Boston;*;$;*;03:30
+Boston;*;$;*;13:30
+Boston;*;$;*;10:30
+Boston;*;$;Wednesday;*
+Boston;*;$;Thursday;*
+Boston;*;$;Friday;22:30
+Boston;*;$;Saturday;*
+Boston;*;$;*;13:30
+Boston;*;*;*;03:30
+Boston;*;*;*;13:30
+Boston;*;*;*;10:30
+Boston;*;*;Wednesday;*
+Boston;*;*;Thursday;*
+Boston;*;*;Friday;22:30
+Boston;*;*;Saturday;*
+Boston;*;*;*;13:30
+Boston;*;$$$;*;13:30
+San Francisco;*;$$$;*;10:30
+San Francisco;*;$$$;Wednesday;*
+San Francisco;*;$$$;Thursday;*
+San Francisco;*;$$$;Friday;22:30
+San Francisco;*;$$$;Saturday;*
+San Francisco;*;$$$;*;13:30
+San Francisco;*;$$;*;03:30
+San Francisco;*;$$;*;13:30
+San Francisco;*;$$;*;10:30
+San Francisco;*;$$;Wednesday;*
+San Francisco;*;$$;Thursday;*
+San Francisco;*;$$;Friday;22:30
+San Francisco;*;$$;Saturday;*
+San Francisco;*;$$;*;13:30
+San Francisco;*;$;*;03:30
+San Francisco;*;$;*;13:30
+San Francisco;*;$;*;10:30
+San Francisco;*;$;Wednesday;*
+San Francisco;*;$;Thursday;*
+San Francisco;*;$;Friday;22:30
+San Francisco;*;$;Saturday;*
+San Francisco;*;$;*;13:30
+San Francisco;*;*;*;03:30
+San Francisco;*;*;*;13:30
+San Francisco;*;*;*;10:30
+San Francisco;*;*;Wednesday;*
+San Francisco;*;*;Thursday;*
+San Francisco;*;*;Friday;22:30
+San Francisco;*;*;Saturday;*
+San Francisco;*;*;*;13:30
+Boston;*;$$$;*;13:30
+Chicago;*;$$$;*;10:30
+Chicago;*;$$$;Wednesday;*
+Chicago;*;$$$;Thursday;*
+Chicago;*;$$$;Friday;22:30
+Chicago;*;$$$;Saturday;*
+Chicago;*;$$$;*;13:30
+Chicago;*;$$;*;03:30
+Chicago;*;$$;*;13:30
+Chicago;*;$$;*;10:30
+Chicago;*;$$;Wednesday;*
+Chicago;*;$$;Thursday;*
+Chicago;*;$$;Friday;22:30
+Chicago;*;$$;Saturday;*
+Chicago;*;$$;*;13:30
+Chicago;*;$;*;03:30
+Chicago;*;$;*;13:30
+Chicago;*;$;*;10:30
+Chicago;*;$;Wednesday;*
+Chicago;*;$;Thursday;*
+Chicago;*;$;Friday;22:30
+Chicago;*;$;Saturday;*
+Chicago;*;$;*;13:30
+Chicago;*;*;*;03:30
+Chicago;*;*;*;13:30
+Chicago;*;*;*;10:30
+Chicago;*;*;Wednesday;*
+Chicago;*;*;Thursday;*
+Chicago;*;*;*;22:30
+Chicago;*;*;Saturday;*
+Chicago;*;*;*;13:30

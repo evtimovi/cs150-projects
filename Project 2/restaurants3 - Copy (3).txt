@@ -1,0 +1,98 @@
+﻿reviewers: 0
+name: The Lyre of Orpheus
+open: Sunday 08:00 16:00,Monday 06:00 20:00,Tuesday 06:00 20:00,Wednesday 06:00 20:00,Thursday 06:00 20:00,Friday 06:00 20:00,Saturday 06:00 01:00
+cost: $$
+category: Greek,Breakfast & Brunch,Seafood,Salad,Soup
+city: San Francisco
+rank: 0
+
+reviewers: 0
+rank: 0
+cost: $$$
+category: Turkish,Soup,Salad,Pizza
+open: Sunday 10:00 16:00,Monday 07:00 20:00,Tuesday 07:00 20:00,Wednesday 07:00 20:00,Thursday 07:00 20:00,Friday 07:00 20:00,Saturday 07:00 20:00
+name: Renan's Turkish Pizzeria
+city: San Francisco
+
+reviewers: 0
+city: San Francisco
+cost: $$
+name: The Stone Hedge Lodge
+open: Sunday 11:30 23:00,Monday 09:30 01:30,Tuesday 09:30 01:30,Wednesday 09:30 01:30,Thursday 09:30 01:30,Friday 09:30 01:30,Saturday 10:30 02:30
+rank: 0
+category: British,Scottish,Fish & Chips
+
+category: Hot Dogs,Cheesesteaks,Burgers,Live/Raw Food,Sushi Bars,Cannibalism
+cost: $$$
+open: Sunday 10:00 13:00,Monday 10:00 13:00,Tuesday 10:00 13:00,Wednesday 10:00 13:00,Thursday 10:00 13:00,Friday 10:00 13:00,Saturday 10:00 13:00
+reviewers: 0
+city: San Francisco
+name: The Hannibal Hut
+rank: 0
+
+open: Sunday 10:00 16:00,Monday 07:00 20:00,Tuesday 07:00 20:00,Wednesday 07:00 20:00,Thursday 07:00 20:00,Friday 07:00 20:00,Saturday 07:00 20:00
+cost: $$
+rank: 0
+city: San Francisco
+reviewers: 0
+name: The Noodle House
+category: Thai,Asian Fusion
+
+rank: 0
+name: The Marina
+category: Seafood,Soup,Fish & Chips,Food Stands
+cost: $
+city: San Francisco
+reviewers: 0
+open: Sunday 11:00 16:00,Monday 10:00 16:00,Tuesday 10:00 16:00,Wednesday 10:00 16:00,Thursday 10:00 16:00,Friday 10:00 16:00,Saturday 09:00 20:00
+
+reviewers: 0
+rank: 0
+name: The Bad Seeds Grill
+cost: $
+city: San Francisco
+category: Burgers,Hot Dogs,Fast Food
+open: Sunday 11:30 23:00,Monday 09:30 01:30,Tuesday 09:30 01:30,Wednesday 09:30 01:30,Thursday 09:30 01:30,Friday 09:30 01:30,Saturday 10:30 02:30
+
+reviewers: 0
+city: San Francisco
+open: Sunday 11:00 16:00,Monday 10:00 16:00,Tuesday 10:00 16:00,Wednesday 10:00 16:00,Thursday 10:00 16:00,Friday 10:00 16:00,Saturday 09:00 20:00
+category: Soup
+rank: 0
+name: We Like Soup
+cost: $
+
+reviewers: 0
+city: Boston
+name: Nick's Cave
+category: Beer,Wine & Spirits,Pretzels
+open: Sunday 13:00 03:00,Monday 17:00 01:00,Tuesday 17:00 01:00,Wednesday 17:00 01:00,Thursday 17:00 01:00,Friday 13:00 03:00,Saturday 13:00 03:00
+cost: $
+rank: 0
+
+name: Donner's Pub
+city: Boston
+cost: $$$
+reviewers: 0
+category: Cannibalism,Butcher,Specialty Food,Meat Shops,Street Vendors
+rank: 0
+open: Sunday 10:00 13:00,Monday 10:00 13:00,Tuesday 10:00 13:00,Wednesday 10:00 13:00,Thursday 10:00 13:00,Friday 10:00 13:00,Saturday 10:00 13:00
+
+cost: $$
+reviewers: 0
+rank: 0
+city: Boston
+category: Bubble Tea,Street Vendor,Desserts
+open: Sunday 10:00 17:00,Monday 10:00 17:00,Tuesday 10:00 17:00,Wednesday 10:00 17:00,Thursday 10:00 17:00,Friday 10:00 17:00,Saturday 10:00 17:00
+name: The Lonely Garden
+
+name: The Leatherwing Cat
+city: Boston
+category: Bakeries,Desserts,Juice Bars & Smoothies
+rank: 0
+cost: $
+reviewers: 0
+open: Sunday 12:30 15:00,Monday 11:00 15:00,Tuesday 11:00 15:00,Wednesday 11:00 15:00,Thursday 11:00 15:00,Friday 11:00 15:00,Saturday 09:00 16:00
+
+reviewers: 0
+rank: 0
